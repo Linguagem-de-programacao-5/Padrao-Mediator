@@ -1,0 +1,2 @@
+# Padrao-Mediator
+Mediator pattern
