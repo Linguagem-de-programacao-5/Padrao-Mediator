@@ -559,7 +559,7 @@
 											"width": 152.08984375,
 											"height": 13,
 											"underline": true,
-											"text": "+getInstancia(): Comercial",
+											"text": "+getInstancia()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -755,7 +755,7 @@
 											"width": 154.2734375,
 											"height": 13,
 											"underline": true,
-											"text": "+getInstancia(): Financeiro",
+											"text": "+getInstancia()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -951,7 +951,7 @@
 											"width": 147.0498046875,
 											"height": 13,
 											"underline": true,
-											"text": "+getInstancia(): Tecnico",
+											"text": "+getInstancia()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1774,20 +1774,7 @@
 								"$ref": "AAAAAAGCE6S0p5U1yno="
 							},
 							"name": "getInstancia",
-							"isStatic": true,
-							"parameters": [
-								{
-									"_type": "UMLParameter",
-									"_id": "AAAAAAGCE6S0p5U96NQ=",
-									"_parent": {
-										"$ref": "AAAAAAGCE6S0p5U8HXc="
-									},
-									"type": {
-										"$ref": "AAAAAAGCE6S0p5U7ZzM="
-									},
-									"direction": "return"
-								}
-							]
+							"isStatic": true
 						}
 					]
 				},
@@ -1821,20 +1808,7 @@
 								"$ref": "AAAAAAGCE6UAU5XBnFE="
 							},
 							"name": "getInstancia",
-							"isStatic": true,
-							"parameters": [
-								{
-									"_type": "UMLParameter",
-									"_id": "AAAAAAGCE6UAVJXJP6s=",
-									"_parent": {
-										"$ref": "AAAAAAGCE6UAVJXIzlg="
-									},
-									"type": {
-										"$ref": "AAAAAAGCE6UAVJXHxIQ="
-									},
-									"direction": "return"
-								}
-							]
+							"isStatic": true
 						}
 					]
 				},
@@ -1913,20 +1887,7 @@
 								"$ref": "AAAAAAGCE6U1mZX9i3E="
 							},
 							"name": "getInstancia",
-							"isStatic": true,
-							"parameters": [
-								{
-									"_type": "UMLParameter",
-									"_id": "AAAAAAGCE6U1mpYFTM0=",
-									"_parent": {
-										"$ref": "AAAAAAGCE6U1mpYEK0k="
-									},
-									"type": {
-										"$ref": "AAAAAAGCE6U1mpYDT+E="
-									},
-									"direction": "return"
-								}
-							]
+							"isStatic": true
 						}
 					]
 				},
